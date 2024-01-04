@@ -81,3 +81,14 @@ Future work may involve algorithm refinement, optimization strategies exploratio
 
 1. B. Goodarzi, F. Khorasani, V. Sarkar and D. Goswami, "High Performance Multilevel Graph Partitioning on GPU," 2019 International Conference on High Performance Computing & Simulation (HPCS), Dublin, Ireland, 2019, pp. 769-778, doi: 10.1109/HPCS48598.2019.9188120.
 2. W. Zhou and J. Huang, "A Fast Multi-level Algorithm for Drawing Large Undirected Graphs," 2008 International Conference on Internet Computing in Science and Engineering, Harbin, China, 2008, pp. 110-117, doi: 10.1109/ICICSE.2008.27.
+
+## Acknowledgments
+
+Special thanks to our esteemed instructor, Dr. Güner Eroğlu, for guiding and supporting us throughout this research.
+
+## Team Members
+
+- Furkan Parlak
+- Ahmet Kerem Yıldırım
+
+Their contributions significantly enriched the depth and quality of this study.
