@@ -84,7 +84,7 @@ Future work may involve algorithm refinement, optimization strategies exploratio
 
 ## Acknowledgements
 
-Special thanks to our esteemed instructor, Dr. Güner Eroğlu, for guiding and supporting us throughout this research.
+Special thanks to our esteemed instructor, Dr. Günet Eroğlu, for guiding and supporting us throughout this research.
 
 ## Team Members
 
